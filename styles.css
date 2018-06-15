@@ -8,6 +8,11 @@ html {
   background-color: #43484c;
 }
 
+body {
+  margin: 0;
+  padding: 0;
+}
+
 ul {
   text-align: right;
   padding-right: 1.618em;
