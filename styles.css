@@ -5,7 +5,7 @@
 }
 
 html {
-  background-color: #43484c;
+  background-color: #2b2b2b;
 }
 
 body {
@@ -27,15 +27,15 @@ li {
 
 li a {
   text-decoration: none;
-  color: #ffd267;
-  background-color: #6591ee;
+  color: #d97516;
+  background-color: #282828;
   padding: .3em .3em .3em .3em;
   display: inline-block;
   font-size: 1.7em;
 }
 
 header {
-  background-color: #2D3133;
+  background-color: #282828;
   margin: 0;
   padding: 0;
   width: 100%;
@@ -44,19 +44,18 @@ header {
 }
 
 #nav a.current {
-  background-color: #3d63da;
-  color: #ffd267;
+  color: #006d8c;
 }
 
 #nav li:hover {
-  background-color: #3d63da;
-  opacity: .3;
+  background-color: #282828;
+  opacity: .5;
 }
 
 p {
   font-family: Helvetica, sans-serif;
   text-align: center;
-  color: hsl(40, 59%, 60%);
+  color: #006d8c;
   max-height: 250px;
   margin-right: 8em;
   margin-left: 8em;
@@ -65,13 +64,13 @@ p {
 h3 a{
   font-family: bignoodletitling;
   letter-spacing: .1em;
-  color: #ffd267;
+  color: #d97516;
 }
 
 footer {
   font-family: bignoodletitling;
   height: 10%;
-  background-color: #2D3133;
+  background-color: #232323;
   text-align: center;
   display: inline-block;
   width: 100%;
@@ -79,7 +78,6 @@ footer {
 
 footer a{
   text-decoration: none;
-  height: 10%;
   clear: both;
 }
 
@@ -97,11 +95,16 @@ footer a{
   letter-spacing: .1em;
   font-size: 3em;
   opacity: .76;
-  color: #ffd267;
+  color: #d97516;
 }
 
 .parallax {
-  min-height: 120vh;
+  min-height: 100vh;
+  background: transparent;
+}
+
+#broadway.parallax{
+  min-height: 90vh;
   background: transparent;
 }
 
