@@ -5,13 +5,13 @@
 }
 
 html {
-  /*background-color: #2b2b2b;*/
-    background-color: #fff;
+  background-color: #2b2b2b;
 }
 
 body {
   margin: 0;
   padding: 0;
+  overflow: auto;
 }
 
 ul {
@@ -124,5 +124,13 @@ footer a{
 
 .break {
     height: .1em;
-    background-color: black;
+    background-color: #000;
+}
+
+.bordered {
+    border: 2px solid #d97516;
+    color: #282828;
+    border-radius: .5em;
+    padding: .25em;
+    background-color: #d97516;
 }
