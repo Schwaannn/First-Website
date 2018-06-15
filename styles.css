@@ -5,7 +5,8 @@
 }
 
 html {
-  background-color: #2b2b2b;
+  /*background-color: #2b2b2b;*/
+    background-color: #fff;
 }
 
 body {
@@ -20,10 +21,10 @@ ul {
 }
 
 li {
-  display: inline-block;
+  display: inline;
   font-family: bignoodletitling;
   letter-spacing: .12em;
-    line-height: 4em;
+  line-height: 4em;
 }
 
 li a {
@@ -40,7 +41,6 @@ header {
   margin: 0;
   padding: 0;
   width: 100%;
-  height: auto;
   display: inline-block;
 }
 
@@ -120,4 +120,9 @@ footer a{
     float: left;
     display: inline-block;
     padding: 1em .8em 1em 1.618em;
+}
+
+.break {
+    height: .1em;
+    background-color: black;
 }
