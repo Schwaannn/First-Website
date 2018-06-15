@@ -16,22 +16,23 @@ body {
 ul {
   text-align: right;
   padding-right: 1.618em;
+    height: 4em;
 }
 
 li {
   display: inline-block;
   font-family: bignoodletitling;
-  letter-spacing: .15em;
-  padding: .3em;
+  letter-spacing: .12em;
+    line-height: 4em;
 }
 
 li a {
   text-decoration: none;
   color: #d97516;
   background-color: #282828;
-  padding: .3em .3em .3em .3em;
-  display: inline-block;
+  padding: 0 .35em 0 .35em;
   font-size: 1.7em;
+  display: inline-block;
 }
 
 header {
@@ -39,7 +40,7 @@ header {
   margin: 0;
   padding: 0;
   width: 100%;
-  height: 10%;
+  height: auto;
   display: inline-block;
 }
 
@@ -70,7 +71,7 @@ h3 a{
 footer {
   font-family: bignoodletitling;
   height: 10%;
-  background-color: #232323;
+  background-color: #282828;
   text-align: center;
   display: inline-block;
   width: 100%;
@@ -92,7 +93,7 @@ footer a{
   left: 50%;
   transform: translate(-50%, -50%);
   font-family: bignoodletitling;
-  letter-spacing: .1em;
+  letter-spacing: .04em;
   font-size: 3em;
   opacity: .76;
   color: #d97516;
@@ -112,4 +113,11 @@ footer a{
   padding: 1em 0 1em 0;
   font-size: 1.45em;
   overflow: hidden;
+}
+
+.logo {
+    height: 4em;
+    float: left;
+    display: inline-block;
+    padding: 1em .8em 1em 1.618em;
 }
