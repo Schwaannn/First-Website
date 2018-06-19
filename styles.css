@@ -126,6 +126,8 @@ footer a{
   display: inline;
 }
 .mac {
+    margin: 0;
+    padding: 0;
   width: 40em;
   display: inline;
   float: right;
