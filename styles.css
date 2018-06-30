@@ -1,11 +1,15 @@
 
 html {
   background-color: #fbfbfb;
-  padding: .7em;
+  padding: 1em;
 }
 a {
   text-decoration: none;
   color: #000000;
+}
+body {
+  margin: 0;
+  padding: 0;
 }
 .gridcontainer1 {
   display: grid;
@@ -106,41 +110,20 @@ ul {
 }
 .grid-container2 {
   display: grid;
-  grid-template-columns: repeat(auto-fit, 400px);
-  grid-gap: 10px;
+  grid-template-columns: repeat(auto-fill, 25em);
+  grid-auto-rows: 30em;
   justify-content: center;
+  grid-gap: 10px;
 }
-
-/*
-.experience {
-  grid-area: experience;
-  background-color: #f7f7f7;
-  text-align: center;
-  padding-top: 150px;
-}
-.education {
-  grid-area: education;
-  background-color: #f1f1f1;
-  text-align: center;
-  padding-top: 150px;
-}
-.leadership {
-  grid-area: leadership;
-  background-color: #f7f7f7;
-  text-align: center;
-  padding-top: 150px;
-}
-*/
-
-
 .grid-container3 {
   background-color: #ffffff;
-  height: 30em;
+  grid-auto-rows: 30em;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  padding: 2em;
+  grid-template-columns: repeat(auto-fill, 24.25em);
+  padding: 1em;
   grid-gap: 1em;
   text-align: center;
+  justify-content: center;
 }
 .one {
   background-color: #f1f1f1;
@@ -202,24 +185,7 @@ ul {
 #img1 {
   display: block;
 }
-
-
-
-
-
-
-
-.grid-container-thing {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, 300px);
-}
-
 .box {
-  background-color: green;
+  background-color: skyblue;
   text-align: center;
-  padding-top: 150px;
-}
-
-.one {
-  background-color: blue;
 }
