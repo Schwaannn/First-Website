@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="coryswanson.net" resolutions="1x" timestamp="1531680263475">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="coryswanson.net" resolutions="1x" timestamp="1531680421917">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3808695797" ref="index:designs:resume:photos:contact"/>
     <file name="nomq_preview_master_a-master.css" crc="4246301802" ref="index:designs:resume:photos:contact"/>
-    <file name="index.css" crc="251436234" ref="index"/>
-    <file name="nomq_index.css" crc="4122895755" ref="index"/>
+    <file name="index.css" crc="4130562663" ref="index"/>
+    <file name="nomq_index.css" crc="3927385402" ref="index"/>
     <file name="designs.css" crc="222077048" ref="designs"/>
     <file name="nomq_designs.css" crc="4109541860" ref="designs"/>
     <file name="resume.css" crc="222077048" ref="resume"/>
@@ -15,7 +15,7 @@
     <file name="nomq_contact.css" crc="4109541860" ref="contact"/>
   </folder>
   <folder name="assets">
-    <file name="swanson-resume.pdf" crc="11538023" seo="true" mt="1531679815000"/>
+    <file name="swanson-resume.pdf" crc="11538023" seo="true" mt="1531680263000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:designs:photos:contact:resume"/>
@@ -48,7 +48,7 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:designs:photos:contact:resume"/>
   </folder>
-  <file name="index.html" crc="53788025" seo="true" mt="1531680226640" redirect="true"/>
+  <file name="index.html" crc="357260849" seo="true" mt="1531680410557" redirect="true"/>
   <file name="designs.html" crc="3960894221" seo="true" mt="1531679666370" redirect="true"/>
   <file name="photos.html" crc="4162815596" seo="true" mt="1531679666370" redirect="true"/>
   <file name="contact.html" crc="36030196" seo="true" mt="1531679666370" redirect="true"/>
