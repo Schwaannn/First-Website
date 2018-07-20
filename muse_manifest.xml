@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="coryswanson.net" resolutions="1x" timestamp="1532050247291">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="coryswanson.net" resolutions="1x" timestamp="1532064418486">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3820883405" ref="contact:index:designs:photos:resume"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="contact:index:designs:photos:resume"/>
     <file name="contact.css" crc="308609964" ref="contact"/>
     <file name="nomq_contact.css" crc="4109467067" ref="contact"/>
-    <file name="index.css" crc="4096269615" ref="index"/>
-    <file name="nomq_index.css" crc="4179297903" ref="index"/>
+    <file name="index.css" crc="517880086" ref="index"/>
+    <file name="nomq_index.css" crc="328980907" ref="index"/>
     <file name="designs.css" crc="308609964" ref="designs"/>
     <file name="nomq_designs.css" crc="4109467067" ref="designs"/>
     <file name="photos.css" crc="308609964" ref="photos"/>
@@ -15,7 +15,7 @@
     <file name="nomq_resume.css" crc="4109467067" ref="resume"/>
   </folder>
   <folder name="assets">
-    <file name="swanson-resume.pdf" crc="11538023" seo="true" mt="1532046128000"/>
+    <file name="swanson-resume.pdf" crc="4199652689" seo="true" mt="1532060205000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:designs:photos:contact:resume"/>
@@ -29,7 +29,7 @@
     <file name="require.js" crc="7928878" ref="index:designs:photos:contact:resume"/>
   </folder>
   <folder name="images">
-    <file name="broadway2-crop-u25701.jpg" crc="3788212193" seo="true" ref="index">
+    <file name="broadway2-crop-u25701.jpg" crc="286166869" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="profile-diamond-border.png" crc="523959024" seo="true" ref="index">
@@ -37,16 +37,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="broadway2-crop-u257012.jpg" crc="3913781624" seo="true" ref="index">
+    <file name="broadway2-crop-u257012.jpg" crc="4260929001" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="broadway2-crop-u257013.jpg" crc="115642348" seo="true" ref="index">
+    <file name="broadway2-crop-u257013.jpg" crc="3911634502" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="profile-diamond-border282x282.png" crc="3974229802" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="broadway2-crop-u257014.jpg" crc="301607296" seo="true" ref="index">
+    <file name="broadway2-crop-u257014.jpg" crc="4172299429" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="broadway2-crop-u257015.jpg" crc="363603761" seo="true" ref="index">
@@ -69,7 +69,7 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:designs:photos:contact:resume"/>
   </folder>
-  <file name="index.html" crc="464390668" seo="true" mt="1532050225155" redirect="true"/>
+  <file name="index.html" crc="3950747691" seo="true" mt="1532064398353" redirect="true"/>
   <file name="designs.html" crc="158762444" seo="true" mt="1532039568132" redirect="true"/>
   <file name="photos.html" crc="242832161" seo="true" mt="1532039568132" redirect="true"/>
   <file name="contact.html" crc="136583744" seo="true" mt="1532039568132" redirect="true"/>
