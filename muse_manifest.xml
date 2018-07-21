@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="coryswanson.net" resolutions="1x" timestamp="1532205973270">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="coryswanson.net" resolutions="1x" timestamp="1532206398815">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="contact.css" crc="3817864409" ref="contact"/>
     <file name="nomq_contact.css" crc="4230520724" ref="contact"/>
-    <file name="index.css" crc="210079998" ref="index"/>
-    <file name="nomq_index.css" crc="367727723" ref="index"/>
+    <file name="index.css" crc="4190058732" ref="index"/>
+    <file name="nomq_index.css" crc="100606958" ref="index"/>
     <file name="photos.css" crc="3817864409" ref="photos"/>
     <file name="nomq_photos.css" crc="4230520724" ref="photos"/>
     <file name="resume.css" crc="3817864409" ref="resume"/>
@@ -71,7 +71,7 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:designs:photos:contact:resume"/>
   </folder>
-  <file name="index.html" crc="4154752209" seo="true" mt="1532205876683" redirect="true"/>
+  <file name="index.html" crc="335077508" seo="true" mt="1532206332801" redirect="true"/>
   <file name="designs.html" crc="478098530" seo="true" mt="1532205584153" redirect="true"/>
   <file name="photos.html" crc="4258637458" seo="true" mt="1532205584153" redirect="true"/>
   <file name="contact.html" crc="51164258" seo="true" mt="1532205584153" redirect="true"/>
