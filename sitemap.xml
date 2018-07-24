@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://coryswanson.net/index.html</loc>
-    <lastmod>2018-07-21</lastmod>
+    <lastmod>2018-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -39,10 +39,13 @@
       <image:loc>http://coryswanson.net/images/broadway2-crop-u257016.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://coryswanson.net/images/profile-diamond-border117x117.png</image:loc>
+      <image:loc>http://coryswanson.net/images/profile-diamond-border210x210.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://coryswanson.net/images/broadway2-crop-u257017.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://coryswanson.net/images/broadway2-crop-u257018.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://coryswanson.net/images/profile-diamond-border59x59.png</image:loc>
