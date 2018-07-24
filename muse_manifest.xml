@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="coryswanson.net" resolutions="1x" timestamp="1532474193715">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="coryswanson.net" resolutions="1x" timestamp="1532474812378">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="contact.css" crc="4202115644" ref="contact"/>
     <file name="nomq_contact.css" crc="4230520724" ref="contact"/>
-    <file name="index.css" crc="3914983249" ref="index"/>
-    <file name="nomq_index.css" crc="3872492427" ref="index"/>
+    <file name="index.css" crc="64389533" ref="index"/>
+    <file name="nomq_index.css" crc="4206985095" ref="index"/>
     <file name="resume.css" crc="4202115644" ref="resume"/>
     <file name="nomq_resume.css" crc="4230520724" ref="resume"/>
     <file name="photos.css" crc="4202115644" ref="photos"/>
@@ -52,30 +52,6 @@
     <file name="broadway2-crop-u257014.jpg" crc="3842489321" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hamburger-menu.png" crc="218314318" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="hamburger-x.png" crc="74637700" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="profile-diamond-border309x309.png" crc="215457302" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -93,10 +69,26 @@
     <file name="broadway2-crop-u257016.jpg" crc="4021089170" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="hamburger-menu.png" crc="218314318" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hamburger-x.png" crc="74637700" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="broadway2-u53742-fr.jpg" crc="91396440" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:designs:photos:contact:resume"/>
   </folder>
-  <file name="index.html" crc="4269010579" seo="true" mt="1532474175764" redirect="true"/>
+  <file name="index.html" crc="4264228379" seo="true" mt="1532474697578" redirect="true"/>
   <file name="designs.html" crc="114075723" seo="true" mt="1532205584153" redirect="true"/>
   <file name="photos.html" crc="4048821917" seo="true" mt="1532205584153" redirect="true"/>
   <file name="contact.html" crc="431958091" seo="true" mt="1532205584153" redirect="true"/>
