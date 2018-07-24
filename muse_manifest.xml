@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="coryswanson.net" resolutions="1x" timestamp="1532469967327">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="coryswanson.net" resolutions="1x" timestamp="1532470862504">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="contact.css" crc="4202115644" ref="contact"/>
     <file name="nomq_contact.css" crc="4230520724" ref="contact"/>
-    <file name="index.css" crc="79289368" ref="index"/>
-    <file name="nomq_index.css" crc="8074191" ref="index"/>
+    <file name="index.css" crc="4062622693" ref="index"/>
+    <file name="nomq_index.css" crc="205004203" ref="index"/>
     <file name="resume.css" crc="4202115644" ref="resume"/>
     <file name="nomq_resume.css" crc="4230520724" ref="resume"/>
     <file name="photos.css" crc="4202115644" ref="photos"/>
@@ -34,15 +34,21 @@
     <file name="broadway2-crop-u25701.jpg" crc="328762914" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="profile-diamond-border-u9897-a.png" crc="396948125" ref="index"/>
+    <file name="profile-diamond-border.png" crc="3958491955" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="broadway2-crop-u257012.jpg" crc="3777321056" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="profile-diamond-border-u9897-a2.png" crc="3913905249" ref="index"/>
+    <file name="profile-diamond-border298x298.png" crc="264844816" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="broadway2-crop-u257013.jpg" crc="4220935729" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="profile-diamond-border-u9897-a3.png" crc="146217943" ref="index"/>
+    <file name="profile-diamond-border282x282.png" crc="383997249" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="broadway2-crop-u257014.jpg" crc="3842489321" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -70,21 +76,27 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="profile-diamond-border-u9897-a4.png" crc="347378672" ref="index"/>
+    <file name="profile-diamond-border309x309.png" crc="215457302" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="broadway2-crop-u257015.jpg" crc="458751982" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="profile-diamond-border-u9897-a5.png" crc="189452200" ref="index"/>
-    <file name="profile-diamond-border-u9897-a6.png" crc="379443813" ref="index"/>
+    <file name="profile-diamond-border215x215.png" crc="339870398" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="profile-diamond-border210x210.png" crc="166786650" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="broadway2-crop-u257016.jpg" crc="4021089170" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="profile-diamond-border-u9897-a7.png" crc="400927576" ref="index"/>
-    <file name="broadway2-u51759-fr.jpg" crc="186924670" ref="index"/>
-    <file name="profile-diamond-border-u9897-a8.png" crc="400927576" ref="index"/>
+    <file name="broadway2-u53742-fr.jpg" crc="91396440" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:designs:photos:contact:resume"/>
   </folder>
-  <file name="index.html" crc="4205701859" seo="true" mt="1532469930419" redirect="true"/>
+  <file name="index.html" crc="291479046" seo="true" mt="1532470814055" redirect="true"/>
   <file name="designs.html" crc="114075723" seo="true" mt="1532205584153" redirect="true"/>
   <file name="photos.html" crc="4048821917" seo="true" mt="1532205584153" redirect="true"/>
   <file name="contact.html" crc="431958091" seo="true" mt="1532205584153" redirect="true"/>
