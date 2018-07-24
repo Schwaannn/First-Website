@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="coryswanson.net" resolutions="1x" timestamp="1532468213718">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="coryswanson.net" resolutions="1x" timestamp="1532469967327">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="contact.css" crc="4202115644" ref="contact"/>
     <file name="nomq_contact.css" crc="4230520724" ref="contact"/>
-    <file name="index.css" crc="3995607071" ref="index"/>
-    <file name="nomq_index.css" crc="240596941" ref="index"/>
+    <file name="index.css" crc="79289368" ref="index"/>
+    <file name="nomq_index.css" crc="8074191" ref="index"/>
     <file name="resume.css" crc="4202115644" ref="resume"/>
     <file name="nomq_resume.css" crc="4230520724" ref="resume"/>
     <file name="photos.css" crc="4202115644" ref="photos"/>
@@ -24,6 +24,7 @@
     <file name="jquery.watch.js" crc="51536988" ref="index:designs:photos:contact:resume"/>
     <file name="webpro.js" crc="4059564322" ref="index"/>
     <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:designs:photos:contact:resume"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="index:designs:photos:contact:resume"/>
@@ -79,16 +80,11 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="profile-diamond-border-u9897-a7.png" crc="400927576" ref="index"/>
-    <file name="broadway2-crop-u257017.jpg" crc="103527610" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="broadway2-u51759-fr.jpg" crc="186924670" ref="index"/>
     <file name="profile-diamond-border-u9897-a8.png" crc="400927576" ref="index"/>
-    <file name="broadway2-crop-u257018.jpg" crc="103527610" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="blank.gif" crc="4208392903" ref="index:designs:photos:contact:resume"/>
   </folder>
-  <file name="index.html" crc="413551011" seo="true" mt="1532468172193" redirect="true"/>
+  <file name="index.html" crc="4205701859" seo="true" mt="1532469930419" redirect="true"/>
   <file name="designs.html" crc="114075723" seo="true" mt="1532205584153" redirect="true"/>
   <file name="photos.html" crc="4048821917" seo="true" mt="1532205584153" redirect="true"/>
   <file name="contact.html" crc="431958091" seo="true" mt="1532205584153" redirect="true"/>
