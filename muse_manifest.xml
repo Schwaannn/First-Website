@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="coryswanson.net" resolutions="1x" timestamp="1532640849363">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="coryswanson.net" resolutions="1x" timestamp="1532641668986">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="designs.css" crc="3786597170" ref="designs"/>
     <file name="nomq_designs.css" crc="4230520724" ref="designs"/>
-    <file name="index.css" crc="3783652465" ref="index"/>
-    <file name="nomq_index.css" crc="3778617294" ref="index"/>
+    <file name="index.css" crc="4136744531" ref="index"/>
+    <file name="nomq_index.css" crc="3842923099" ref="index"/>
     <file name="photos.css" crc="3786597170" ref="photos"/>
     <file name="nomq_photos.css" crc="4230520724" ref="photos"/>
     <file name="contact.css" crc="3786597170" ref="contact"/>
@@ -88,7 +88,7 @@
     <file name="broadway2-u60964-fr.jpg" crc="91396440" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:designs:photos:contact:resume"/>
   </folder>
-  <file name="index.html" crc="27573453" seo="true" mt="1532640829056" redirect="true"/>
+  <file name="index.html" crc="212883338" seo="true" mt="1532641633214" redirect="true"/>
   <file name="designs.html" crc="136849990" seo="true" mt="1532205584153" redirect="true"/>
   <file name="photos.html" crc="274602916" seo="true" mt="1532205584153" redirect="true"/>
   <file name="contact.html" crc="391883334" seo="true" mt="1532205584153" redirect="true"/>
