@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="coryswanson.net" resolutions="1x" timestamp="1532644097527">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="coryswanson.net" resolutions="1x" timestamp="1532644627507">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="designs.css" crc="4055396404" ref="designs"/>
     <file name="nomq_designs.css" crc="4230520724" ref="designs"/>
-    <file name="index.css" crc="129662875" ref="index"/>
+    <file name="index.css" crc="247704982" ref="index"/>
     <file name="nomq_index.css" crc="4043331899" ref="index"/>
     <file name="photos.css" crc="4055396404" ref="photos"/>
     <file name="nomq_photos.css" crc="4230520724" ref="photos"/>
@@ -84,7 +84,7 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:designs:photos:contact:resume"/>
   </folder>
-  <file name="index.html" crc="3834397534" seo="true" mt="1532644056324" redirect="true"/>
+  <file name="index.html" crc="3876702610" seo="true" mt="1532644549475" redirect="true"/>
   <file name="designs.html" crc="4040225399" seo="true" mt="1532642732514" redirect="true"/>
   <file name="photos.html" crc="477176994" seo="true" mt="1532642732514" redirect="true"/>
   <file name="contact.html" crc="458643925" seo="true" mt="1532642732514" redirect="true"/>
