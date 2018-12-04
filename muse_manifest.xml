@@ -1,92 +1,20 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="coryswanson.net" resolutions="1x" timestamp="1532986487469">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.coryswanson.net" resolutions="1x" timestamp="1543961562619">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="resume.css" crc="3803001755" ref="resume"/>
-    <file name="nomq_resume.css" crc="4230520724" ref="resume"/>
-    <file name="designs.css" crc="3803001755" ref="designs"/>
-    <file name="nomq_designs.css" crc="4230520724" ref="designs"/>
-    <file name="photos.css" crc="3803001755" ref="photos"/>
-    <file name="nomq_photos.css" crc="4230520724" ref="photos"/>
-    <file name="index.css" crc="4008860704" ref="index"/>
-    <file name="nomq_index.css" crc="457850193" ref="index"/>
-    <file name="contact.css" crc="3803001755" ref="contact"/>
-    <file name="nomq_contact.css" crc="4230520724" ref="contact"/>
-  </folder>
-  <folder name="assets">
-    <file name="swanson-resume.pdf" crc="4199652689" seo="true" mt="1532060205000"/>
+    <file name="master_a-master.css" crc="105613033" ref="index:designs:photos"/>
+    <file name="index.css" crc="3805180834" ref="index"/>
+    <file name="designs.css" crc="3805180834" ref="designs"/>
+    <file name="photos.css" crc="3805180834" ref="photos"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:designs:photos:contact:resume"/>
-    <file name="museutils.js" crc="340535759" ref="index:designs:photos:contact:resume"/>
-    <file name="whatinput.js" crc="86476730" ref="index:designs:photos:contact:resume"/>
-    <file name="museconfig.js" crc="310584261" ref="index:designs:photos:contact:resume"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:designs:photos:contact:resume"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
-    <file name="webpro.js" crc="4059564322" ref="index"/>
-    <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:designs:photos:contact:resume"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index:designs:photos:contact:resume"/>
-    <file name="require.js" crc="7928878" ref="index:designs:photos:contact:resume"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:designs:photos"/>
+    <file name="museutils.js" crc="340535759" ref="index:designs:photos"/>
+    <file name="whatinput.js" crc="86476730" ref="index:designs:photos"/>
+    <file name="museconfig.js" crc="310584261" ref="index:designs:photos"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:designs:photos"/>
+    <file name="require.js" crc="7928878" ref="index:designs:photos"/>
   </folder>
-  <folder name="images">
-    <file name="broadway2-crop-u25701.jpg" crc="328762914" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="profile-diamond-border.png" crc="3958491955" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="broadway2-crop-u257012.jpg" crc="3777321056" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="profile-diamond-border298x298.png" crc="264844816" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="broadway2-crop-u257013.jpg" crc="4220935729" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="profile-diamond-border282x282.png" crc="383997249" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="broadway2-crop-u257014.jpg" crc="3842489321" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="profile-diamond-border309x309.png" crc="215457302" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="broadway2-crop-u257015.jpg" crc="3862237213" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="broadway2-crop-u257016.jpg" crc="335996791" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="profile-diamond-border179x180.png" crc="3988419482" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="broadway2-u60964-fr.jpg" crc="91396440" ref="index"/>
-    <file name="profile-diamond-border210x210.png" crc="526338503" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="hamburger-menu.png" crc="218314318" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="hamburger-x.png" crc="74637700" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="index:designs:photos:contact:resume"/>
-  </folder>
-  <file name="index.html" crc="3866069771" seo="true" mt="1532986420210" redirect="true"/>
-  <file name="designs.html" crc="393388474" seo="true" mt="1532642732514" redirect="true"/>
-  <file name="photos.html" crc="10093560" seo="true" mt="1532642732514" redirect="true"/>
-  <file name="contact.html" crc="4243851800" seo="true" mt="1532642732514" redirect="true"/>
-  <file name="resume.html" crc="4132484765" seo="true" mt="1532642732514" redirect="true"/>
+  <file name="index.html" crc="4279294981" seo="true" mt="1543961204527" redirect="true"/>
+  <file name="designs.html" crc="4235588735" seo="true" mt="1543961185215" redirect="true"/>
+  <file name="photos.html" crc="100306710" seo="true" mt="1543961185215" redirect="true"/>
 </manifest>

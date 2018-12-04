@@ -1,74 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://coryswanson.net/index.html</loc>
-    <lastmod>2018-07-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://coryswanson.net/images/broadway2-crop-u25701.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coryswanson.net/images/profile-diamond-border.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coryswanson.net/images/broadway2-crop-u257012.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coryswanson.net/images/profile-diamond-border298x298.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coryswanson.net/images/broadway2-crop-u257013.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coryswanson.net/images/profile-diamond-border282x282.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coryswanson.net/images/broadway2-crop-u257014.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coryswanson.net/images/profile-diamond-border309x309.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coryswanson.net/images/broadway2-crop-u257015.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coryswanson.net/images/broadway2-crop-u257016.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coryswanson.net/images/profile-diamond-border179x180.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://coryswanson.net/images/profile-diamond-border210x210.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://coryswanson.net/photos.html</loc>
-    <lastmod>2018-07-26</lastmod>
+    <loc>http://www.coryswanson.net/index.html</loc>
+    <lastmod>2018-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://coryswanson.net/designs.html</loc>
-    <lastmod>2018-07-26</lastmod>
+    <loc>http://www.coryswanson.net/designs.html</loc>
+    <lastmod>2018-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://coryswanson.net/contact.html</loc>
-    <lastmod>2018-07-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://coryswanson.net/resume.html</loc>
-    <lastmod>2018-07-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://coryswanson.net/assets/swanson-resume.pdf</loc>
-    <lastmod>2018-07-19</lastmod>
+    <loc>http://www.coryswanson.net/photos.html</loc>
+    <lastmod>2018-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
